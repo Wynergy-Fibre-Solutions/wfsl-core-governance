@@ -1,24 +1,8 @@
-# WFSL Repository Inventory
-UTC: 2026-01-28T00:00:00Z
+## wfsl-shared-verifier
 
-## Authority
-- wfsl-cyber-contracts
-
-## Instruments
-- wfsl-niim
-- wfsl-cyber-cli
-- wfsl-proofgate-cli (cyber-inherited-v1)
-
-## Adapters
-- none
-
-## Core / Shared
-- wfsl-shared-verifier
-
-## Open (explicit OSS only)
-- none
-
-## Status
-- Phase: Inventory (Phase 1)
-- Default licence: WFSL House (Proprietary)
-- Boundary: Evidence-only, no interception, no attribution
+- Purpose: Deterministic verification and evidence integrity checks
+- Cyber inheritance: wfsl-cyber-inheritance/1.0
+- Boundary: evidence-only
+- Key artefact: WFSL-CYBER-INHERITANCE.manifest.json
+- Artefact SHA256: ceadad801a6b6994296825e8922b6ad712f8bbe551fd46aa5d6539e280ffba9a
+- Notes: Explicit prohibitions prevent interception, attribution, RF/BLE fingerprinting, and behavioural inference
