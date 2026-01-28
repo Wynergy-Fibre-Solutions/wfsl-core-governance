@@ -1,8 +1,10 @@
 # WFSL Department Index
 
 ## Purpose
-This index defines WFSL’s operating departments by function.
-Departments represent capability domains, not headcount.
+This index defines WFSL’s operating departments by capability domain.
+Departments describe how WFSL functions as a platform business, independent of headcount.
+
+Each department owns outcomes, not people.
 
 ---
 
@@ -20,8 +22,16 @@ Departments represent capability domains, not headcount.
 - wfsl-admission-guard
 - wfsl-shell-guard
 
-**Mandate**
-Build deterministic, composable, non-surveillance platforms.
+**Owned Outcomes**
+- Deterministic, reproducible platform behaviour
+- Evidence-only and verification-only guarantees
+- Composable tooling with strict boundaries
+
+**Non-Goals**
+- Surveillance
+- Attribution
+- Behavioural inference
+- Policy enforcement
 
 ---
 
@@ -29,27 +39,35 @@ Build deterministic, composable, non-surveillance platforms.
 
 **Scope**
 - Trust models
-- Licensing boundaries
+- Licence boundaries
 - Non-goals
 - Continuity and exit
+- Platform compatibility
 
 **Core Assets**
 - wfsl-core-governance
 - wfsl-governance-chain
 - wfsl-verification-standard
-- Trust and cyber manifests
+- Trust, cyber, and inheritance manifests
 
-**Mandate**
-Preserve lawful convergence and user sovereignty.
+**Owned Outcomes**
+- Lawful convergence across platforms
+- User and operator sovereignty
+- Deterministic trust transfer
+
+**Non-Goals**
+- Runtime enforcement
+- Hidden authority
+- Vendor lock-in
 
 ---
 
 ## Department C — Commercial & Licensing
 
 **Scope**
-- Pricing
+- Pricing models
 - Licence issuance
-- Enterprise activation
+- Enterprise activation pathways
 
 **Core Assets**
 - commercial-wfsl-offerings
@@ -57,8 +75,15 @@ Preserve lawful convergence and user sovereignty.
 - WFSL-Licence-Engine
 - WFSL-Licence-Engine-v2
 
-**Mandate**
-Monetise platforms without weakening guarantees.
+**Owned Outcomes**
+- Monetisation without weakening guarantees
+- Clear licence escalation paths
+- Predictable commercial activation
+
+**Non-Goals**
+- Bundled surveillance
+- Forced upgrades
+- Opaque pricing
 
 ---
 
@@ -66,16 +91,23 @@ Monetise platforms without weakening guarantees.
 
 **Scope**
 - Control plane
-- Signals
-- Operational telemetry (non-surveillance)
+- Operational signals
+- Platform observability (non-surveillance)
 
 **Core Assets**
 - wfsl-control-plane
 - ops-wfsl-signals
 - sentinel-* repositories
 
-**Mandate**
-Operate platforms safely and observably.
+**Owned Outcomes**
+- Safe platform operation
+- Transparent system state
+- Incident readiness without telemetry overreach
+
+**Non-Goals**
+- User tracking
+- Identity correlation
+- Behavioural analytics
 
 ---
 
@@ -85,10 +117,25 @@ Operate platforms safely and observably.
 - Wynergyy
 - TriggerGuard
 - SAS packs
-- Experimental work
+- Experimental and historical work
 
-**Mandate**
-Explore without contaminating production platforms.
+**Owned Outcomes**
+- Exploration without contaminating production platforms
+- Capability incubation
+- Historical continuity
+
+**Non-Goals**
+- Implicit promotion to production
+- Cross-contamination with sealed platforms
+
+---
+
+## Department Interaction Rules
+
+- Departments may collaborate, but may not weaken another department’s guarantees.
+- Governance & Trust has veto authority on boundary violations.
+- Commercial activation must conform to Platform and Governance guarantees.
+- R&D outputs must pass formal promotion gates before production use.
 
 ---
 
