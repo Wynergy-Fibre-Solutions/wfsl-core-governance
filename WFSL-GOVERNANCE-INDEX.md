@@ -1,0 +1,45 @@
+# WFSL Governance Index
+
+## Purpose
+Provide a single navigational index for all governance
+artefacts included in the WFSL Governance Core.
+
+## Core
+- WFSL-GOVERNANCE-SUMMARY.md
+- WFSL-GOVERNANCE-CLOSURE.md
+- WFSL-GOVERNANCE-BOUNDARIES.md
+
+## Authority
+- WFSL-AUTHORITY-ASSERTIONS.md
+- WFSL-KEY-LIFECYCLE.md
+- WFSL-SUPERSESSION-POLICY.md
+
+## Verification
+- wfsl-verify.ps1
+- VERIFY.md
+- NEGATIVE-PROOF.md
+- WFSL-VERIFICATION-GUARANTEES.md
+
+## Release
+- WFSL-RELEASE-MANIFEST.md
+- WFSL-RELEASE-SEAL.md
+- WFSL-RELEASE-BOUNDARY.md
+- WFSL-RELEASE-METADATA.md
+- WFSL-RELEASE-CHECKLIST.md
+
+## Assurance and Audit
+- WFSL-AUDIT-TRAIL.md
+- WFSL-ASSURANCE-STATEMENT.md
+- WFSL-ATTESTATION.md
+- WFSL-COMPLIANCE-MATRIX.md
+- WFSL-RISK-REGISTER.md
+- WFSL-DEPENDENCY-DECLARATION.md
+
+## Control
+- WFSL-OPERATING-CONSTRAINTS.md
+- WFSL-POST-RELEASE-CONTROLS.md
+- WFSL-CHANGE-LOG.md
+- WFSL-ARCHIVE-MANIFEST.md
+
+## Status
+Authoritative index.
