@@ -1,0 +1,95 @@
+b1343f3 (HEAD -> governance/e2-trust-manifest, tag: wfsl-portfolio-freeze-v1.0, origin/governance/e2-trust-manifest) governance: add governance succession
+d0d03c6 governance: add governance handoff definition
+03ca821 governance: add governance exit conditions
+73d2f46 governance: add governance disclaimer
+f543aeb governance: add governance reliance notice
+d1a7a8a governance: add governance decision criteria
+98d0259 governance: add governance limitations
+9f937b2 governance: add governance capabilities
+a68cadb governance: add governance roadmap
+280a67a governance: add governance status
+b307a51 governance: add governance principles
+6391c2a governance: add governance non-goals
+dd5299a governance: add governance assumptions
+51cf1e7 governance: add governance change policy
+d24624b governance: add governance dependency graph
+cde5e38 governance: add governance map
+e219710 governance: add governance index
+0486801 governance: close silent release governance phase
+62cdde6 governance: add release boundary definition
+79f21cb governance: add governance summary
+6c7ac9c governance: add attestation
+c5e48c5 governance: add release metadata
+c295e10 governance: add release checklist
+fbbf299 governance: add verification guarantees
+04ec019 governance: add threat model
+8456a37 governance: add dependency declaration
+7d2b0d1 governance: add assurance statement
+be7445a governance: add terminology definitions
+7ed64c0 governance: add authority assertions
+8f721ae governance: add governance boundaries
+1d266b9 governance: add operating constraints
+df222ca governance: add change log
+751e02c governance: add risk register
+9404f13 governance: add compliance matrix
+fd942ec governance: add audit trail definition
+e47a63b governance: add key lifecycle policy
+c651660 governance: add supersession policy
+98cdfd3 governance: add post-release controls
+d2c6b98 (tag: wfsl-governance-silent-release-v1.0) governance: add final seal tag declaration
+28c8f93 governance: add archive manifest
+a236fc6 governance: add wfsl release seal
+bf40b54 governance: add final release index
+55080dc governance: add integrity checksums manifest
+ff88825 governance: add wfsl release manifest
+5eba08b governance: add wfsl build manifest
+9933b35 docs: add verification entry point to README
+f63e68d docs: add public verification demo and licence convergence pack
+88955f5 (tag: governance-verifier-v1.1) governance: add single-command authority verifier and seal decision record
+eb2b488 (tag: media-integrity-charter-v1.0, tag: governance-verifier-v1.0) governance: lock Media Integrity Proof Charter v1.0
+a8770f3 chore: verify WFSL GPG signing
+a6548f0 governance(ci): declare mandatory freeze enforcement
+81fe13d governance(seal): verify WFSL platform freeze v1
+9be274a governance: add WFSL trust manifest
+0013cbf (origin/governance/e1-governance-md, governance/e1-governance-md, MAIN) governance: add WFSL elite governance signal
+46a6472 (origin/MAIN, origin/HEAD) governance(freeze): initialise ledger and seal WFSL platform freeze v1
+665e1de governance(freeze): declare WFSL platform structural freeze v1
+7dfd450 governance(seal): record WFSL branch protection baseline
+ba29ed3 platform(bundles): establish WFSL platform bundle definitions
+0b5a21a governance(departments): strengthen WFSL department mandates and outcomes
+0c15200 governance(departments): establish WFSL department structure
+7cc37d1 platform(index): establish WFSL platform structure
+1f41efd governance(exec): establish WFSL platform foundation decision
+65a0c1c governance(platform): seal WFSL platform compatibility contract
+d87a9a7 governance(continuity): seal WFSL continuity and exit principles
+b94b6d6 governance(trust): seal WFSL trust transfer model
+3a9e298 governance(licence): seal WFSL licence escalation matrix
+56972c9 governance(non-goals): seal WFSL explicit non-goals declaration
+8162a88 freeze(alignment): seal WFSL cyber inheritance alignment
+0d5001d inventory(repo): register wfsl-shared-verifier cyber inheritance
+e5031c1 ledger(evidence): record WFSL cyber inheritance manifest seal
+7d280ee (tag: v1.1-inventory) docs(governance): register ProofGate CLI cyber inheritance
+bc12aff (tag: v1.0-inventory) docs(governance): establish WFSL repository inventory
+0d5e4d5 (tag: governance-v1.0.1) docs(governance): reference wfsl-portfolio-index v1.0.1 release
+b27a9f1 (tag: governance-v1.0.0) docs(governance): reference wfsl-portfolio-index v1.0.0 release
+41572de docs(governance): add canonical references to portfolio index artefacts
+96d9f6b docs(governance): add core vision, positioning, valuation and trust frameworks
+6479d56 docs(governance): establish WFSL Valuation and Non-Sale Principles
+d1c0d74 docs(governance): establish WFSL Trust Economics v1.0
+d2c0735 docs(governance): establish WFSL Sovereign Systems Declaration
+0ac306d docs(governance): establish WFSL Sovereign Systems Declaration
+3e791c7 docs(governance): establish WFSL Telecoms Superstructure
+0c58521 docs(governance): establish WFSL Infrastructure and Devices Charter
+d2e0ba6 docs(governance): establish WFSL Global Expansion Principles
+b87ff5d docs(governance): establish WFSL Federation Strategy
+7ac7984 docs(governance): establish WFSL Operating Model
+f25b1e7 docs(governance): establish WFSL Field Execution Instrumentation v1.0
+765cbf7 docs(governance): establish WFSL Execution Covenant
+e78bad1 docs(governance): establish WFSL Core Constitution and doctrine hierarchy
+6de50e4 docs(governance): ratify WFSL Platform Control Doctrine and system authority
+dd9608f docs(governance): add WFSL Platform Control Doctrine v1.0
+4acbcb6 chore(licence): add Apache-2.0 licence
+13d07b5 chore: replace licence with Apache-2.0
+d51bd0a (tag: v2026.01-baseline, tag: v0.0.2) Docs: add WFSL governance boundaries
+6534e68 Docs: add WFSL governance entry point and boundaries
+94c6542 (tag: v0.0.1) Init: WFSL core governance kernel

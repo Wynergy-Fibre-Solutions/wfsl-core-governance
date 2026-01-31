@@ -1,0 +1,31 @@
+{
+  "schema": "wfsl-trust-registry-v1",
+  "issuedUtc": "2026-01-25T00:00:00Z",
+  "description": "Canonical registry of trusted WFSL repositories and their cryptographic trust anchors.",
+  "principles": {
+    "noSilentRevocation": true,
+    "appendOnly": true,
+    "noCentralEnforcement": true,
+    "evidencePreserving": true
+  },
+  "repositories": {
+    "wfsl-core-governance": {
+      "status": "trusted",
+      "publicKey": "MCowBQYDK2VwAyEAvCUox8q2zNjNG7h7cMC3qvhwWGRL3g1/oIUjFlErwgU=",
+      "firstSeenUtc": "2026-01-25T00:00:00Z",
+      "notes": "Governance root. Doctrine and policy source."
+    },
+    "wfsl-proofgate-cli": {
+      "status": "trusted",
+      "publicKey": "INHERITS-REPO-KEY",
+      "firstSeenUtc": "2026-01-25T00:00:00Z",
+      "notes": "ProofGate CLI and trust enforcement tooling."
+    }
+  },
+  "revocations": [],
+  "disclaimers": {
+    "noWarranty": true,
+    "verificationRequired": true,
+    "userResponsibility": true
+  }
+}
