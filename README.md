@@ -1,92 +1,47 @@
-\# WFSL Core Governance
-
-
+# WFSL Core Governance
 
 This repository defines the core governance framework for
-
 Wynergy Fibre Solutions Ltd (WFSL).
-
-
 
 It is documentation-only.
 
-
-
 No runtime logic exists in this repository.
 
-
-
----
-
-
-
-\## Purpose
-
-
-
-\- Define organisational governance
-
-\- Establish operational boundaries
-
-\- Provide external review clarity
-
-\- Prevent undocumented decision-making
-
-
+Verify WFSL Authority: see VERIFY.md
 
 ---
 
+## Purpose
 
+- Define organisational governance
+- Establish operational boundaries
+- Provide external review clarity
+- Prevent undocumented decision-making
 
-\## Scope
+---
 
-
+## Scope
 
 Included:
-
-\- Governance principles
-
-\- Compliance posture
-
-\- Change discipline
-
-\- Release meaning
-
-
+- Governance principles
+- Compliance posture
+- Change discipline
+- Release meaning
 
 Excluded:
-
-\- Software
-
-\- Automation
-
-\- Tooling
-
-\- Enforcement mechanisms
-
-
+- Software
+- Automation
+- Tooling
+- Enforcement mechanisms
 
 ---
 
-
-
-\## Status
-
-
+## Status
 
 Governance kernel.
-
 Externally reviewable.
-
 Intentionally minimal.
-
-
 
 ---
 
-
-
 End of document.
-
-
-
